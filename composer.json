@@ -1,9 +1,9 @@
 {
-    "name": "laravel-admin-ext/media-player",
+    "name": "laradvance/admin-media-player",
     "description": "Intergrates mediaelement into laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension", "audio", "video", "player"],
-    "homepage": "https://github.com/laravel-admin-ext/media-player",
+    "homepage": "https://github.com/laradvance/admin-media-player",
     "license": "MIT",
     "authors": [
         {
